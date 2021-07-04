@@ -1,6 +1,4 @@
-
-- link to github project folder => [https://github.com/Navjot147/DataStructure/tree/master/dice-roll-node](https://github.com/Navjot147/DataStructure/tree/master/dice-roll-node)
-
+### Simple nodejs program to play roll dice game.
 ---
 
 ### COMMAND TO RUN
